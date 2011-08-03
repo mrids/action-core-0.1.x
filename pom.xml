@@ -27,7 +27,7 @@
     <version>0.1.5-SNAPSHOT</version>
     <name>action</name>
     <description>HDFS browser</description>
-    <url>http://github.com/pierre/action-core</url>
+    <url>http://github.com/mrids/action-core-0.1.x</url>
     <licenses>
         <license>
             <name>Apache License 2.0</name>
@@ -36,9 +36,9 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:git:git://github.com/pierre/action-core.git</connection>
-        <developerConnection>scm:git:git@github.com:pierre/action-core.git</developerConnection>
-        <url>http://github.com/pierre/action-core/tree/master</url>
+        <connection>scm:git:git@github.com:mrids/action-core-0.1.x.git</connection>
+        <developerConnection>scm:git:git@github.com:mrids/action-core-0.1.x.git</developerConnection>
+        <url>http://github.com/mrids/action-core-0.1.x/tree/master</url>
     </scm>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
